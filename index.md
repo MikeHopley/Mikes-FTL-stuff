@@ -21,3 +21,9 @@
 ## Mods
 
 * [The mods I use](https://mikehopley.github.io/Mikes-FTL-mods/)
+
+## Gameplay
+
+* [Twitch broadcasts](https://www.twitch.tv/mikehopley/videos?filter=collections)
+* [Challenge runs (vanilla)](https://www.youtube.com/playlist?list=PLYGAjVZPcf_R83mkaMTxuSGS8oLucfmvS), just the Flagship fights
+* [Challenge runs (balance mod)](https://www.youtube.com/playlist?list=PLYGAjVZPcf_S2b87KGMb3-Zkx8SC9izv4), just the Flagship fights
