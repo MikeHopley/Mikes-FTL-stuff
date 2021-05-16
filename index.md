@@ -25,5 +25,6 @@
 ## Gameplay
 
 * [Twitch broadcasts](https://www.twitch.tv/mikehopley/videos?filter=collections)
-* [Challenge runs (vanilla)](https://www.youtube.com/playlist?list=PLYGAjVZPcf_R83mkaMTxuSGS8oLucfmvS), just the Flagship fights
-* [Challenge runs (balance mod)](https://www.youtube.com/playlist?list=PLYGAjVZPcf_S2b87KGMb3-Zkx8SC9izv4), just the Flagship fights
+* [Shieldless runs (vanilla)](https://www.youtube.com/watch?v=pkwcxQCioZ4&list=PLYGAjVZPcf_Ts6tR1LFk3LxEG040ly9EI&ab_channel=MikeHopley), just the Flagship fights
+* [Other challenge runs (vanilla)](https://www.youtube.com/playlist?list=PLYGAjVZPcf_R83mkaMTxuSGS8oLucfmvS), just the Flagship fights
+* [Balance mod challenge runs](https://www.youtube.com/playlist?list=PLYGAjVZPcf_S2b87KGMb3-Zkx8SC9izv4), just the Flagship fights
