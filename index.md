@@ -8,6 +8,7 @@
 
 ## Tools
 
+* [Enemy ships information](https://ftl-layouts.mikehopley.org/)
 * [Enemy weapons timing calculator](https://mikehopley.github.io/ftl-weapon-timing/)
 * [Weapon travel times](https://mikehopley.github.io/FTL-weapons-travel/)
 * [Zoltan treadmill](https://mikehopley.github.io/zoltan-treadmill/)
